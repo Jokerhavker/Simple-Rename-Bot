@@ -33,4 +33,4 @@ view - view current thumbnail
 
 ● [BOT UPDATES](https://t.me/TheBotNest)
 
-● [SUPPORT GROUP](https://t.me/mkn_botz_discussion_group)
+● [SUPPORT GROUP](https://t.me/TheBotNestChat)
